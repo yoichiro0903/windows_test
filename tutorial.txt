@@ -2,5 +2,5 @@ sarudemo wakaru git tutorial
 hennkou dayo
 
 tutorial2: tashitayo
-
 tutorial:test
+tutorial2: test
